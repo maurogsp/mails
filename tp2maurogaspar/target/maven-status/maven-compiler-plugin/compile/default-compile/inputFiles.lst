@@ -1,0 +1,13 @@
+/home/mauro/tp2maurogaspar/src/main/java/com/maven/tp2/request/MensajeRequest.java
+/home/mauro/tp2maurogaspar/src/main/java/com/maven/tp2/servicio/Servicio.java
+/home/mauro/tp2maurogaspar/src/main/java/com/maven/tp2/controladora/ControladoraMensajes.java
+/home/mauro/tp2maurogaspar/src/main/java/com/maven/tp2/Configuracion.java
+/home/mauro/tp2maurogaspar/src/main/java/com/maven/tp2/modelo/Mensaje.java
+/home/mauro/tp2maurogaspar/src/main/java/com/maven/tp2/util/AuthenticationData.java
+/home/mauro/tp2maurogaspar/src/main/java/com/maven/tp2/App.java
+/home/mauro/tp2maurogaspar/src/main/java/com/maven/tp2/dao/DaoUsuarios.java
+/home/mauro/tp2maurogaspar/src/main/java/com/maven/tp2/dao/DaoMensajes.java
+/home/mauro/tp2maurogaspar/src/main/java/com/maven/tp2/util/SessionData.java
+/home/mauro/tp2maurogaspar/src/main/java/com/maven/tp2/modelo/Usuario.java
+/home/mauro/tp2maurogaspar/src/main/java/com/maven/tp2/AuthFilter.java
+/home/mauro/tp2maurogaspar/src/main/java/com/maven/tp2/controladora/ControladoraUsuarios.java

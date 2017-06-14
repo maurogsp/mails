@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="tp2maurogaspar" target="1.5" />
+      <module name="tp2maurogaspar" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>

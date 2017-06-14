@@ -1,12 +1,11 @@
 package com.maven.tp2.servicio;
 
-import com.maven.tp2.dao.Dao;
+import com.maven.tp2.dao.DaoMensajes;
 import com.maven.tp2.modelo.Mensaje;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.List;
 
 /**
@@ -15,9 +14,9 @@ import java.util.List;
 @Service
 public class Servicio {
     @Autowired
-    Dao bd;
+    DaoMensajes bd;
 
-    @Autowired
+
     public Servicio()
     {
 
